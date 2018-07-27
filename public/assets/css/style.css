@@ -1,0 +1,8 @@
+body {
+    height: 25%; 
+    background-image: url(cuteBurger.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
